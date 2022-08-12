@@ -24,4 +24,5 @@ git rm filename
 git rm .
 git checkout {branchname}
 git branch
-=======================End V2================================
+git pull {name of remote repo}
+=======================End V3================================

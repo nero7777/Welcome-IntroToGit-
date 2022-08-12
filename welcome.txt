@@ -1,3 +1,17 @@
+=======================Welcome V1============================
 Git CLI Introduction
 Welcome to Distributed Version Control System
 Thankyou!
+=======================End V1============================
+=======================Welcome V2============================
+Starting Welcome Version 2.0
+Here are some common git commands
+git add filename
+git add .
+git commit
+git commit -m "Message here" -> (-m is the message flag)
+git remote add origin (link of the remote repo here)
+git push {name of remote repo} master(<- Name of the branch)
+git status
+git log
+=======================End V2================================

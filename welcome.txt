@@ -15,3 +15,13 @@ git push {name of remote repo} master(<- Name of the branch)
 git status
 git log
 =======================End V2================================
+
+=======================Welcome V3============================
+Starting Welcome Version 3.0 by Second Associate
+Here are some common git commands
+git --help (To get help)
+git rm filename
+git rm .
+git checkout {branchname}
+git branch
+=======================End V2================================
